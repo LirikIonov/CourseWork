@@ -1,0 +1,4 @@
+# Ignore generated txt files
+*.txt
+# Except input graph files
+!graph?.txt
