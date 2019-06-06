@@ -1,4 +1,4 @@
-Course work, which is investigated finding the chromatic number in all small graphs.
+Course work, which investigates finding the chromatic number in all small graphs.
 
 Entry point is src/Solution.java.
 
